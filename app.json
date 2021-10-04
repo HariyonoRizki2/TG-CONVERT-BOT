@@ -1,6 +1,6 @@
 {
-  "name": "File converter",
-  "description": "Telegram Converter bot. Create your Fork now.",
+  "name": "FILE CONVERTER BOT",
+  "description": "Telegram Converter Bot. Create your own Bot now.",
   "keywords": [
     "telegram",
     "best",
@@ -9,40 +9,40 @@
   ],
   "logo": "https://telegra.ph/file/7f3b556164324610e21a6.jpg",
   "success_url": "https://telegram.dog/convert_Ns_bot",
-  "website": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
-  "repository": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
+  "website": "https://github.com/HariyonoRizki2/TG-CONVERT-BOT",
+  "repository": "https://github.com/HariyonoRizki2/TG-CONVERT-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "Isi dengan Token Botmu, Dapatkan Dari @botfather.",
       "value": ""
     },
     "USER_NAME": {
-      "description": "Your name like @NS_AnoNymouS",
-      "value": "@NS_AnoNymouS"
+      "description": "Username Telegrammu sebagai Owner",
+      "value": "@kepinnaripp"
     },
     "BOT_PASSWORD": {
-      "description": "Password for using this bot. If you don't set any password bot can be used as public",
+      "description": "Password untuk Menggunakan Bot Ini. Jika Kamu Tidak Menge-set nya maka bot bisa digunakan untuk umum",
       "value": "",
       "required": false
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Dapatkan Dari https://my.telegram.org",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Dapatkan Dari https://my.telegram.org",
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot",
-      "value": "1337144652"
+      "description": "Hanya mengizinkan Mereka yang Telah Ter-set untk Menggunakan Bot Ini",
+      "value": "1626608718"
     },
     "BANNED_USERS": {
-      "description": "Banned Unwanted members..",
+      "description": "Member Terblokir..",
       "value": "",
       "required": false
     }
