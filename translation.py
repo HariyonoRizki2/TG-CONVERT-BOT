@@ -27,20 +27,18 @@ I can convert file to video or video to file with custom thumbnail support.
 """
 
 
-#Please don't change this about command 🙏
-
       ABOUT = """
 **📝 Language:** Python 3
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [Kevin Arifandi](https://t.me/kepinnaripp)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**📮 Channel:** [KITGBOTZ](https://t.me/kitgbotz)
 
 **👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
+**💻 Source Code:**[Tekan Disini](https://github.com/HariyonoRizki2/TG-CONVERT-BOT)
 
 """
 
@@ -51,24 +49,24 @@ I can convert file to video or video to file with custom thumbnail support.
 
 #If you set the password for the bot if anyone use the bot without logging in this text will appear
 
-      NOT_LOGGED_TEXT = """ This bot was a private bot you need to login using the password.
-For logging in use command <code>/login BotPassword</code>. And then use me 🥰"""
+      NOT_LOGGED_TEXT = """Ini Merupakan Bot Private, Kamu Harus Login Menggunakan Password untuk Menggunakan Bot Ini.
+Untuk Login, Gunakan Command <code>/login BotPassword</code>. Lalu Gunakan Botnya 🥰"""
 
 
 #This will be sent to the user when the user logged successfully
 
-      SUCESS_LOGIN = """You are successfully logged in. So you can use me for today.
-You access will be revoke by tomorrow"""
+      SUCESS_LOGIN = """Kamu Berhasil Masuk! Kamu Sudah dapat Menggunakanku Sekarang.
+Aksesmu Akan Kadaluarsa Besok, Kamu Harus Login Ulang Untuk Dapat Menggunakanku."""
 
 
 # This will be show when an user send wrong password
 
-      WRONG_PWD = """This is a wrong password 🔐 please try with correct password"""
+      WRONG_PWD = """Maaf, Password Yang Anda masukan SALAH ⛔ , Coba Kembali dengan Password yang Benar."""
 
 
 # This will appear if the user is already logged
 
-      EXISTING_USER = "You are already logged in you can use me"
+      EXISTING_USER = "Kamu Telah Masuk, Silahkan Langsung Menggunakanku"
 
 ####################################################################################################################################################
 ####################################################################################################################################################
@@ -77,11 +75,11 @@ You access will be revoke by tomorrow"""
 #DON'T CHANGE THE NUMBERS IN THE FLOWER BRACKETS AND THE ORDER OF PERCENTAGE, DONE, TOTAL, SPEED, ETA ONLY CHANGE THE THEME 
 
       PROGRESS = """
-Percentage : {0}%
-Done ✅: {1}
+Persen : {0}%
+Selesai ✅: {1}
 Total 🌀: {2}
-Speed 🚀: {3}/s
-ETA 🕰: {4}
+Kecepatan 🚀: {3}/s
+Perkiraan Selesai 🕰: {4}
 """
        
       DOWNLOAD_PROGRESS = "▪️"
@@ -92,11 +90,11 @@ ETA 🕰: {4}
 
 
 
-      DOWNLOAD_START = "Trying to Download 📥"
-      DOWNLOAD_COMPLETE = "✅ Media Downloaded successfully\nPreparing for upload"
-      UPLOAD_START = "Trying to Upload 📤"
-      UPLOAD_COMPLETE = "THANKS FOR USING ME"
-      SAVED_CUSTOM_THUMB_NAIL = "✅ Saved Thumbnail Successfully. This will be deleted in 24hrs"
-      BANNED_TEXT = "YOU ARE BANNED. SO YOUR ARE NOT ABLE TO USE ME 🐒"
-      REPLY_TEXT = "👩‍✈️ Reply to the media which you need to convert"
-      DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Deleted Successfully ✅"
+      DOWNLOAD_START = "Sedang Mengunduh File 📥"
+      DOWNLOAD_COMPLETE = "✅ File Telah Terunduh\nBersiap Mengunggah File"
+      UPLOAD_START = "Sedang Mengunggah File 📤"
+      UPLOAD_COMPLETE = "File Berhasil Diconvert, Terima Kasih"
+      SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Berhasil Disimpan, Thumbnail Otomatis Dihapus 24Jam Kemudian"
+      BANNED_TEXT = "MAAF, KAMU TELAH TERBLOKIR. KAMU TIDAK DAPAT MENGGUNAKANKU LAGI"
+      REPLY_TEXT = "Silahkan Reply Media yang Ingin Kamu Convert."
+      DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Berhasil dihapus"
