@@ -13,17 +13,17 @@ I can convert file to video or video to file with custom thumbnail support.
 
 #This will be appeared when anyone use help command
 
-      HELP = """**Hey you need help 🤔 ?**
+      HELP = """**Apakah Kamu Membutuhkan Bantuan?**
 
-1. Send me the telegram file or video which you wanted to convert.
+1. Kirimkan File atau Video yang ingin Kamu Convert.
 
-2. Send me the thumbnail(photo) optional.
+2. Kirimkan Sebuah Thumbnail (Optional).
 
-3. Reply to video /converttofile for converting into file.
+3. Reply di Video dan ketik /converttofile untuk Convert Menjadi File.
 
-4. Reply to file /converttovideo for converting into video.
+4. Reply to File dan Ketik /converttovideo untuk Convert Menjadi Video.
 
-**SUPPORT GROUP:** [NS Bot Supporters](https://telegram.dog/Ns_Bot_supporters)
+**SUPPORT BOT:** [KITGBOTZ SUPPORT BOT](https://telegram.dog/kitgbotzsupport_bot)
 """
 
 
@@ -36,7 +36,7 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **📮 Channel:** [KITGBOTZ](https://t.me/kitgbotz)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+**👥 Support:** [KITGBOTZ SUPPORT](https://t.me/kitgbotzsupport_bot)
 
 **💻 Source Code:**[Tekan Disini](https://github.com/HariyonoRizki2/TG-CONVERT-BOT)
 
